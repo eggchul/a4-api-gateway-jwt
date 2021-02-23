@@ -17,7 +17,8 @@ Enable annotation <br/>
 <img src="https://github.com/eggchul/a4-api-gateway-jwt/blob/master/screenshots/enable-annotation.png" width="700" alt="accessibility text">
 ### Step 3
 Install lombok <br/>
-<img src="https://github.com/eggchul/a4-api-gateway-jwt/blob/master/screenshots/install-lombok.png" width="700" alt="accessibility text"
+<img src="https://github.com/eggchul/a4-api-gateway-jwt/blob/master/screenshots/install-lombok.png" width="700" alt="accessibility text">
+
 ### Step 4
 run consul
 ```
